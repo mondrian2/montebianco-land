@@ -1384,7 +1384,7 @@ a {
 .cid-s48P1Icc8J {
   padding-top: 4rem;
   padding-bottom: 2rem;
-  background-color: #4479d9;
+  background-color: #ffffff;
 }
 .cid-s48P1Icc8J .row-links {
   width: 100%;
@@ -1448,4 +1448,7 @@ a {
 }
 .cid-s48P1Icc8J .media-container-row .row-copirayt p {
   width: 100%;
+}
+.cid-s48P1Icc8J .media-container-row .mbr-text {
+  color: #000000;
 }
